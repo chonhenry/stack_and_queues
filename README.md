@@ -1,2 +1,2 @@
 # stack_and_queues
-My implementation
+My implementation of stacks and queues
