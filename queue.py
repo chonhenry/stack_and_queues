@@ -11,7 +11,7 @@ class queue:
 		self.length = 0
 
 	def peek(self): #show the top item
-		return self.first
+		return self.first.value
 
 	def enqueue(self, item): #add an item to the stack
 		new_item = node(item)
